@@ -1,4 +1,4 @@
 # contact-Manager
 
 
-simple app to login and create contacts and delere them
+simple app to Register,login and create contacts and delere them
